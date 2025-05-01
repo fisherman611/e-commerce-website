@@ -45,10 +45,10 @@ My database has 4 tables: Cart, Customer, Order, Product. Here is the relational
 Clone the repository, change the current working directory to this repository's root folder:
 
 ```
-git clone https://github.com/fisherman611/E-commerce-website.git
+git clone https://github.com/fisherman611/e-commerce-website.git
 ```
 ```
-cd E-commerce-website
+cd e-commerce-website
 ```
 
 Install ```requirements.txt``` (replace `3.11` with your installed Python version):
